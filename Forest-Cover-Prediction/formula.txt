@@ -1,0 +1,1 @@
+c1+c2+c3+c4+c5+c6+c7~Elevation+Aspect+Slope+Horizontal_Distance_To_Hydrology+Vertical_Distance_To_Hydrology+Horizontal_Distance_To_Roadways+Hillshade_9am+Hillshade_Noon+Hillshade_3pm+Horizontal_Distance_To_Fire_Points+Wild+Soil
