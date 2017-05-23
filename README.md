@@ -1,1 +1,1 @@
-# Kaggle
+# Kaggle Competitions: Code and Results
